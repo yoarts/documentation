@@ -65,7 +65,7 @@ This theme imports six Javascript files.
 * Single Page Nav
 * My Custom Script
 
-#Sources and Credits
+# Sources and Credits
 
 I've used the following images, icons or other files as listed. All resources below using for demo purpose only (Download package replaced by blank images)
 
@@ -85,3 +85,90 @@ I've used the following images, icons or other files as listed. All resources be
 * http://dribbble.com/shots/482917-Creative-Suite-Icons
 
 Once again, thank you so much for purchasing this template. As I said at the beginning, I'd be glad to help you if you have any questions relating to this template. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes on ThemeForest, you might consider visiting the forums and asking your question in the "Item Discussion" section.
+
+# Changelog
+
+**1.2.3** (June 22, 2014):
+
+ - Upgrade: Font Awesome 4.1.0
+ - New: Contact Form PHP
+
+**1.2.2** (March 17, 2014):
+
+ - Fix: Bug js isotope
+ - Tweak: Buttons style & colors
+
+**1.2.1** (March 6, 2014):
+
+ - Upgrade Bootstrap 3.1.1
+ - Fix: Images were overlap text on Firefox
+
+**1.2.0** (February 6, 2014):
+
+ - New: isotope script for Portfolio Section
+ - Upgrade Bootstrap 3.1.0
+ - Tweak Heading Font Family
+ - Tweak Call To Action buttons
+
+**1.1.1** (Jan 30, 2014):
+
+ - Tweak focus selector of the link on navbar
+ - Hide Topbar on the small devices
+ - Tweak Call to Action buttons
+ - Tweak Menu on small devices
+ - Tweak Blog thumbnail
+ - Tweak Back to top button
+
+**1.1.0** (Jan 28, 2014):
+
+ - Add Topbar with a Message and Social Links
+ - Add Back to top button with smooth scroll
+ - Tweak Navbar
+ - Tweak Header
+ - Tweak Contact Form
+ - Tweak Flickr Widget
+ - Tweak Portfolio Modal
+
+**1.0.7** (Jan 26, 2014):
+
+ - Add External link to Main Nav
+ - Tweak Logo
+ - Tweak Textarea height on Contact Form
+ - Hidden Google Map Section from demo
+
+**1.0.6** (Jan 24, 2014):
+
+ - Tweak Contact Section
+ - Add Google Map Section
+
+**1.0.5** (Jan 15, 2014):
+
+ - Add more 2 section: Pricing Table, Our Team
+
+**1.0.4** (Jan 07, 2014):
+
+ - Re-Design Portfolio Section
+ - Add Single Portfolio Modal
+
+**1.0.3** (Jan 05, 2014):
+
+ - Change Jumbotron section to Carousel
+
+**1.0.2** (Jan 04, 2014):
+
+ - Support Responsive
+ - Add One Page Navigation
+ - Add Blog Section
+ - Add Clients Section
+ - Re-Design Header
+ - Re-Design Testimonial section
+ - Re-Design Footer
+
+**1.0.1** (Jan 01, 2014):
+
+ - Add effect when scrolling
+ - Re-Design Jumbotron
+
+**1.0.0** (Dec 30, 2013):
+
+ - Initial release
